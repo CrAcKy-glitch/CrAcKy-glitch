@@ -1,5 +1,4 @@
  Hey there folks, Im Ansh and welcome to my github profile,
- i specialise in C C++ Javascript PHP HTML5 React JQuery CSS3 Sass Bootstrap NodeJS Express MongoDB MySQL Heroku Photoshop
 
 
 <!--
