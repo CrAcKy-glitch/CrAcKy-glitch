@@ -12,14 +12,14 @@
 - ⚙️ React and node.js
 
 #### 🌱 I'm currently learning
-- [Vue.js](https://example.com)
-- [Kafka](https://example.com)
+- [Vue.js](https://vuejs.org)
+- [Kafka](https://apache.kafka.org)
 - AWS serverless
 
 
 #### 📫 Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-YourUsername-blue)](https://www.linkedin.com/in/ansharora1010)
-[![Twitter](https://img.shields.io/badge/Twitter-YourUsername-blue)](https://twitter.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ansh-blue)](https://www.linkedin.com/in/ansharora1010)
+[![Twitter](https://img.shields.io/badge/Twitter-AnshArora-blue)](https://twitter.com/ambitiousguy_01)
 
 #### 🤝 Contributing
 If you have any ideas, features, or improvements, feel free to contact me at <a href="mailto:ansha4179@gmail.com">mail</a>!
