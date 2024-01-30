@@ -1,17 +1,31 @@
- Hey there folks, Im Ansh and welcome to my github profile,
+### WAZZZUP, I'm [Ansh Arora](https://github.com/CrAcKy-glitch) 👋
+
+#### 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CrAcKy-glitch&show_icons=true&theme=radical)
+
+#### 🚀 Languages and Tools
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CrAcKy-glitch&layout=compact)
+
+#### 💡 My expertise
+- 🌟 Flutter
+- 🚀 Laravel
+- ⚙️ React and node.js
+
+#### 🌱 I'm currently learning
+- [Vue.js](https://example.com)
+- [Kafka](https://example.com)
+- AWS serverless
 
 
-<!--
-**CrAcKy-glitch/CrAcKy-glitch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### 📫 Connect with me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-YourUsername-blue)](https://www.linkedin.com/in/ansharora1010)
+[![Twitter](https://img.shields.io/badge/Twitter-YourUsername-blue)](https://twitter.com/)
 
-Here are some ideas to get you started:
+#### 🤝 Contributing
+If you have any ideas, features, or improvements, feel free to contact me at <a href="mailto:ansha4179@gmail.com">mail</a>!
+Check out my website intelansh.onrender.com, if you want a 3D Experience.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
