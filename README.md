@@ -1,5 +1,3 @@
-
-
 <h2>Hi, I'm Ansh 👋</h2>
 
 <p>
@@ -121,7 +119,7 @@
   <li>Real-time updates</li>
 </ul>
 
-<h3>2. <a href="https://github.com/your-dsa-repo-link">DSA Challenges</a></h3>
+<h3>2. <a href="https://leetcode.com/u/CrAcKy-glitch">DSA Challenges</a></h3>
 <p>
   A collection of algorithms I've solved, with a focus on Sliding Window, Dijkstra’s, and Dynamic Programming techniques.
 </p>
@@ -131,9 +129,9 @@
 <h2>🚀 Connect with Me</h2>
 
 <ul>
-  <li><a href="https://www.linkedin.com/in/your-link/">LinkedIn</a></li>
-  <li><a href="https://twitter.com/your-twitter">Twitter</a></li>
-  <li><a href="https://your-portfolio-link.com">Portfolio</a></li>
+  <li><a href="https://www.linkedin.com/in/ansharora1010/">LinkedIn</a></li>
+
+  <li><a href="https://sopln.vercel.app">Portfolio</a></li>
 </ul>
 
 <hr>
